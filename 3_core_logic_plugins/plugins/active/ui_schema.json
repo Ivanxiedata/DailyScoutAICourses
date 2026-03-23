@@ -1,0 +1,30 @@
+{
+  "title": "AI Course Core Concept Runner",
+  "description": "Provide the concept inputs and run the plugin logic.",
+  "fields": [
+    {
+      "name": "topic",
+      "label": "Topic",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "detail_level",
+      "label": "Detail Level",
+      "type": "select",
+      "required": true,
+      "options": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "default": "intermediate"
+    },
+    {
+      "name": "key_points",
+      "label": "Key Points (comma separated)",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

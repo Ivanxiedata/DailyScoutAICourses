@@ -1,0 +1,12 @@
+{
+  "title": "Default Plugin UI",
+  "description": "Replace this schema with injected plugin fields.",
+  "fields": [
+    {
+      "name": "topic",
+      "label": "Topic",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

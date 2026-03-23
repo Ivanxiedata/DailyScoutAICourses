@@ -1,0 +1,8 @@
+{
+  "active_plugin": "active",
+  "plugins_path": "3_core_logic_plugins/plugins",
+  "required_files": [
+    "core_concept.py",
+    "ui_schema.json"
+  ]
+}
