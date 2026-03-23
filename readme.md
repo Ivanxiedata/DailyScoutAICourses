@@ -14,6 +14,10 @@ This repository implements a plug-and-play AI journal pipeline built for OpenCla
 - `permanent_scaffold/backend_fastapi`: generic backend that imports plugin logic
 - `permanent_scaffold/frontend_nextjs`: generic frontend that renders from plugin schema
 
+## Environment
+
+Copy `.env.example` to `.env` and fill in keys. `.env` is gitignored.
+
 ## Agents
 
 Agent role rules are stored under `agents/*/{SOUL.md,AGENTS.md}`.

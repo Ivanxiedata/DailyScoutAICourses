@@ -1,6 +1,18 @@
-import rawSchema from "../../../plugin/ui_schema.json";
+import rawSchema from "../../plugin/ui_schema.json";
 
-export type FieldType = "text" | "number" | "select" | "textarea" | "checkbox";
+/**
+ * Widget types emitted by logic plugins. Aliases are normalized in DynamicForm.
+ * - text_input: same as text (single-line)
+ * - file_upload: browser file → { filename, mimeType, encoding, content } in payload
+ */
+export type FieldType =
+  | "text"
+  | "text_input"
+  | "number"
+  | "select"
+  | "textarea"
+  | "checkbox"
+  | "file_upload";
 
 export interface UIField {
   name: string;

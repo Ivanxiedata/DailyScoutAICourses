@@ -5,7 +5,7 @@
     {
       "name": "topic",
       "label": "Topic",
-      "type": "text",
+      "type": "text_input",
       "required": true
     }
   ]
