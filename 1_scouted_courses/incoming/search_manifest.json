@@ -1,0 +1,37 @@
+{
+  "query": "site:deeplearning.ai 'short courses' AI agents OR 'Generative AI' key learning",
+  "retrieved_at_utc": "2026-03-23T07:46:52.231174+00:00",
+  "count": 1,
+  "raw": {
+    "cached": false,
+    "success": true,
+    "data": [
+      {
+        "url": "https://learn.deeplearning.ai/courses/agentic-ai/information",
+        "title": "Agentic AI - DeepLearning.AI - Learning Platform",
+        "description": "In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows."
+      },
+      {
+        "url": "https://learn.deeplearning.ai/courses/generative-ai-with-llms/information",
+        "title": "Generative AI with Large Language Models - DeepLearning.AI",
+        "description": "What you'll get from Generative AI with LLMs. Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works."
+      },
+      {
+        "url": "https://learn.deeplearning.ai/",
+        "title": "DeepLearning.AI - Learning Platform",
+        "description": "Visit DeepLearning.AI Short Courses page to see our latest courses and begin learning ... Short Course. Practical Multi AI Agents and Advanced Use Cases with ..."
+      },
+      {
+        "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+        "title": "Multi AI Agent Systems with crewAI - DeepLearning.AI",
+        "description": "Learn key principles of designing effective AI agents, and organizing a team of AI agents to perform complex, multi-step tasks."
+      },
+      {
+        "url": "https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!",
+        "title": "Agentic AI - DeepLearning.AI",
+        "description": "In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows."
+      }
+    ],
+    "id": "019d19a9-2e44-75cf-a994-da57a6ccdd83"
+  }
+}

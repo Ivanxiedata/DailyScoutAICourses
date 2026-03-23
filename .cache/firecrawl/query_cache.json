@@ -1,0 +1,108 @@
+{
+  "01d9e97c5daa50914603dad625eaa1196d8751e18414365dcea4fd1c105a991f": {
+    "value": {
+      "success": true,
+      "data": [
+        {
+          "url": "https://www.coursera.org/courses?query=artificial%20intelligence",
+          "title": "Best AI Courses & Certificates [2026] | Coursera",
+          "description": "Artificial intelligence courses can help you learn machine learning algorithms, natural language processing, computer vision, and neural networks."
+        },
+        {
+          "url": "https://www.coursera.org/learn/introduction-to-ai",
+          "title": "Introduction to Artificial Intelligence (AI) - Coursera",
+          "description": "This course covers core AI concepts, including deep learning, machine learning, and neural networks. You'll examine generative AI models, including large ..."
+        },
+        {
+          "url": "https://www.deeplearning.ai/",
+          "title": "DeepLearning.AI: Start or Advance Your Career in AI",
+          "description": "AI Courses and Specializations. Build a foundation of machine learning and AI skills, and understand how to apply them in the real world."
+        },
+        {
+          "url": "https://www.coursera.org/courses?query=free&skills=Artificial%20Intelligence",
+          "title": "Free Artificial Intelligence Courses & Certificates [2026] | Coursera",
+          "description": "Learn AI fundamentals and explore real-world applications of intelligent systems in a free course. Enroll for free."
+        },
+        {
+          "url": "https://community.deeplearning.ai/t/which-course-do-you-recommend-after-ai-for-everyone/834556",
+          "title": "Which Course do you recommend after AI For Everyone?",
+          "description": "The Machine Learning Specialization is commonly recommended after 'AI for Everyone'. But as @gent.spah mentioned, you do need solid basics in Python."
+        }
+      ],
+      "id": "019d197e-d245-73d8-bbf0-30c597574ff8"
+    },
+    "expires_at": 1774335634.9927092
+  },
+  "86278980155a0f8cd5447c842a2d46265a9061fac2c9ecf47ee1095c1c2c87a1": {
+    "value": {
+      "success": true,
+      "data": [
+        {
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "title": "anthropics/claude-cookbooks - GitHub",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. - anthropics/claude-cookbooks."
+        }
+      ],
+      "id": "019d19a1-b48b-7058-8853-b0c45378fea5"
+    },
+    "expires_at": 1774337921.616191
+  },
+  "c963f1daa6fbe4264f546686e7b638750fe62ba55f02dbd649d2ad8a0b97f586": {
+    "value": {
+      "success": true,
+      "data": [
+        {
+          "url": "https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Regularization.ipynb",
+          "title": "Regularization.ipynb - Improving Deep Neural Networks - GitHub",
+          "description": "deeplearning.ai-Assignments; /Improving Deep Neural Networks; /Week1. /. Regularization.ipynb. Copy path ... ipynb. Top. File metadata and controls. Preview. Code."
+        },
+        {
+          "url": "https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Initialization.ipynb",
+          "title": "Initialization.ipynb - Improving Deep Neural Networks - GitHub",
+          "description": "deeplearning.ai-Assignments; /Improving Deep Neural Networks; /Week1. /. Initialization.ipynb. Copy path ... ipynb. Top. File metadata and controls. Preview. Code."
+        },
+        {
+          "url": "https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%203/Tensorflow_introduction.ipynb",
+          "title": "Tensorflow_introduction.ipynb - GitHub",
+          "description": "This repo contains my work & The code base for this Deep Learning Specialization offered by deeplearning.AI - DeepLearning."
+        }
+      ],
+      "id": "019d19a5-6878-7498-938e-0df1dc301db1"
+    },
+    "expires_at": 1774338164.3569589
+  },
+  "9e9184c8a597d7d16c9ba2484e9e363453b56d82b5343aabef1e99b6955c29fa": {
+    "value": {
+      "success": true,
+      "data": [
+        {
+          "url": "https://learn.deeplearning.ai/courses/agentic-ai/information",
+          "title": "Agentic AI - DeepLearning.AI - Learning Platform",
+          "description": "In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows."
+        },
+        {
+          "url": "https://learn.deeplearning.ai/courses/generative-ai-with-llms/information",
+          "title": "Generative AI with Large Language Models - DeepLearning.AI",
+          "description": "What you'll get from Generative AI with LLMs. Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works."
+        },
+        {
+          "url": "https://learn.deeplearning.ai/",
+          "title": "DeepLearning.AI - Learning Platform",
+          "description": "Visit DeepLearning.AI Short Courses page to see our latest courses and begin learning ... Short Course. Practical Multi AI Agents and Advanced Use Cases with ..."
+        },
+        {
+          "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/",
+          "title": "Multi AI Agent Systems with crewAI - DeepLearning.AI",
+          "description": "Learn key principles of designing effective AI agents, and organizing a team of AI agents to perform complex, multi-step tasks."
+        },
+        {
+          "url": "https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!",
+          "title": "Agentic AI - DeepLearning.AI",
+          "description": "In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows."
+        }
+      ],
+      "id": "019d19a9-2e44-75cf-a994-da57a6ccdd83"
+    },
+    "expires_at": 1774338411.6592
+  }
+}

@@ -18,9 +18,9 @@ This repository implements a plug-and-play AI journal pipeline built for OpenCla
 
 Copy `.env.example` to `.env` and fill in keys. `.env` is gitignored.
 
-## Agents
+## Agent (OpenClaw workspace)
 
-Agent role rules are stored under `agents/*/{SOUL.md,AGENTS.md}`.
+Role rules, pipeline phases, and skill triggers live in the repo root: `AGENTS.md`, `IDENTITY.md`, `USER.md`, and `TOOLS.md`.
 
 ## Skills
 

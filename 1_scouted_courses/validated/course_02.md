@@ -1,0 +1,19 @@
+# Initialization.ipynb - Improving Deep Neural Networks - GitHub
+
+- Source: https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Initialization.ipynb
+- Domain: github.com
+- Retrieved: 2026-03-23T07:42:47.651889+00:00
+
+## Extracted Summary
+
+[Skip to content](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Initialization.ipynb#start-of-content)
+
+You signed in with another tab or window. [Reload](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Initialization.ipynb) to refresh your session.You signed out in another tab or window. [Reload](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Initialization.ipynb) to refresh your session.You switched accounts on another tab or window. [Reload](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Initialization.ipynb) to refresh your session.Dismiss alert
+
+{{ message }}
+
+[Gurupradeep](https://github.com/Gurupradeep)/ **[deeplearning.ai-Assignments](https://github.com/Gurupradeep/deeplearning.ai-Assignments)** Public
+
+- [Notifications](https://github.com/login?return_to=%2FGurupradeep%2Fdeeplearning.ai-Assignments) You must be signed in to change notification settings
+- [Fork\\
+346](https://github.com/login?return_to=%2FGurup

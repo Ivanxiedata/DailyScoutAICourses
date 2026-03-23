@@ -9,7 +9,7 @@ mkdir -p "${COMMUNITY_DIR}"
 
 echo "Installing local Python dependencies for skills..."
 python3 -m pip install --upgrade pip
-python3 -m pip install requests beautifulsoup4
+python3 -m pip install requests beautifulsoup4 firecrawl-py
 
 echo "Registering community skill repositories..."
 if [[ ! -d "${COMMUNITY_DIR}/openclaw-agent-router" ]]; then
